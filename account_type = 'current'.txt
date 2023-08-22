@@ -1,0 +1,19 @@
+account_type = 'current'
+pin_attempts = 0
+
+while pin_attempts < 3:
+    pin2 = int(input("Enter your pin:"))
+    if pin2 == pin1:
+        account_type1 = input("Enter account type:")
+        if account_type1 == account_type:
+            amount = input("Enter amount:")
+            print(amount, "is debited from your account")
+            break
+        else:
+            print("Account Type does not match")
+    else:
+        print("Pin incorrect")
+        pin_attempts += 1
+
+    if pin_attempts == 3:
+        print("Account Blocked!")

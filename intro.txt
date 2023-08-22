@@ -1,0 +1,24 @@
+Language :
+
+# Programming languages are divided into 2 type:
+    # Compiler                  # Interpreted
+        # compilation              # execution
+        # execution
+    # complete program execution    # line by line execution
+
+# General purpose and specific purpose..
+
+# Python.org 
+
+# Guido van Rossum .. 
+# 1989
+# 1991 -- internal release..
+
+# first stable version 1.0 -- 1994 1st Jan
+
+# most stable version -- 2.7
+
+# Module1 : Basic for programming:
+# Module2 : Datatype of Python..
+# Module3: Functions,Modules,FIle Opertions,Databases.
+# Module4: Oops and use cases..,numpy and pandas.
